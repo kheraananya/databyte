@@ -62,10 +62,10 @@ In order to fetch tweets through Twitter API, you need to register an App throug
 Follow this link to register your app.
 Get the API keys. Need help, follow this link
 Open jobtweets.py and replace 'XXXXXXXXXXXX' with your API keys.
-        consumer_key = 'XXXXXXXXXXXX'
-        consumer_secret = 'XXXXXXXXXXXX'
-        access_token = 'XXXXXXXXXXXX'
-        access_token_secret = 'XXXXXXXXXXXX'
+        consumer_key = 'XXXXXXXXXXXX'<br/>
+        consumer_secret = 'XXXXXXXXXXXX'<br/>
+        access_token = 'XXXXXXXXXXXX'<br/>
+        access_token_secret = 'XXXXXXXXXXXX'<br/>
 Run python jobtweets.py
 It may take a minute to fetch the results from Twitter. Make sure that you've proper internet connection.
 
