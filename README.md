@@ -57,7 +57,7 @@ tweets = api.get_tweets(query = 'Job Opportunities', count = 500)
 
 # python
 
-*Get started with Twitter API by signing up for Twitter Developer Account.
+Get started with Twitter API by signing up for Twitter Developer Account.
 In order to fetch tweets through Twitter API, you need to register an App through your twitter account.
 Follow this link to register your app.
 Get the API keys. Need help, follow this link
@@ -67,8 +67,8 @@ Open jobtweets.py and replace 'XXXXXXXXXXXX' with your API keys.
         access_token = 'XXXXXXXXXXXX'
         access_token_secret = 'XXXXXXXXXXXX'
 Run python jobtweets.py
-It may take a minute to fetch the results from Twitter. Make sure that you've proper internet connection.*
+It may take a minute to fetch the results from Twitter. Make sure that you've proper internet connection.
 
 
 
-Twitter Sentiment Analyzer - A web app to search the keywords(Hashtags) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
+***Twitter Sentiment Analyzer - A web app to search the keywords(Hashtags) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.***
