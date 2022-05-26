@@ -14,9 +14,10 @@ Sentiment Analysis is the process of ‘computationally’ determining whether a
 
 3 major steps in jobtweets.py code :
 
->Authorize twitter API client.
->Make a GET request to Twitter API to fetch tweets for a particular query.
->Parse the tweets. Classify each tweet as positive, negative or neutral.
+> Authorize twitter API client.
+> Make a GET request to Twitter API to fetch tweets for a particular query.
+> Parse the tweets. Classify each tweet as positive, negative or neutral.
+
 Made with Python Made with love Makes people smile
 
 # Explanation
